@@ -1,0 +1,2 @@
+Transaction ID: T001
+Book Issued to User U001

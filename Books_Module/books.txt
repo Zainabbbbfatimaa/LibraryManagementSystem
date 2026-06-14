@@ -1,0 +1,3 @@
+Book ID: B001
+Title: Java Programming
+Status: Available
